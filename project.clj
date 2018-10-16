@@ -3,7 +3,7 @@
   :url "https://github.com/funcool/octet"
   :license {:name "Public Domain"
             :url "http://unlicense.org/"}
-  :dependencies [[org.clojure/clojure "1.9.0" :scope "provided"]
+  :dependencies [[org.clojure/clojure "1.10.0-RC1" :scope "provided"]
                  [org.clojure/clojurescript "1.9.946" :scope "provided"]
                  [io.netty/netty-buffer "4.1.24.Final"]]
 
